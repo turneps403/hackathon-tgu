@@ -2,9 +2,9 @@
 
 ![](/img/tgu-hackathon.png)
 
-# Учебную задачу выполнили студенты команды №5
+### Учебную задачу выполнили студенты команды №5
 
-Работу можно посмотреть в файле [Hackathon_5_group_TSU.ipynb](/Hackathon_5_group_TSU.ipynb)
+Работу можно посмотреть в файле **[Hackathon_5_group_TSU.ipynb](/Hackathon_5_group_TSU.ipynb)**
 
 ### Суть задачи
 
